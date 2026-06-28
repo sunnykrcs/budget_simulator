@@ -182,6 +182,7 @@ def test_observation_sigma():
 
 
 if __name__ == "__main__":
+    
 
     print("=" * 70)
     print("Testing priors.py")
