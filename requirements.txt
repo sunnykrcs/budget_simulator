@@ -1,0 +1,15 @@
+# Core Data Processing
+numpy>=2.0,<3.0
+pandas>=2.2,<4.0
+scipy>=1.13,<2.0
+
+# Machine Learning
+scikit-learn>=1.5,<2.0
+
+# Bayesian Modeling
+pymc>=5.28,<6.0
+arviz>=0.23,<1.0
+
+# Visualization
+matplotlib>=3.9,<4.0
+graphviz>=0.20,<1.0

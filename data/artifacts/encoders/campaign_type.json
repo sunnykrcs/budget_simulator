@@ -1,0 +1,10 @@
+{
+    "Audience": 0,
+    "Demand Gen": 1,
+    "Display": 2,
+    "Meta Ads Unknown": 3,
+    "Performance Max": 4,
+    "Search": 5,
+    "Shopping": 6,
+    "Video": 7
+}
