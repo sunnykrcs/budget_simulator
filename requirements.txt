@@ -9,7 +9,6 @@ scikit-learn>=1.5,<2.0
 # Bayesian Modeling
 pymc>=5.28,<6.0
 arviz>=0.23,<1.0
-pytest>=9.1.1,<10.0
 
 # Visualization
 matplotlib>=3.9,<4.0
