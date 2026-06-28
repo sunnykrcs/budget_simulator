@@ -173,8 +173,7 @@ class BayesianRevenueModel:
                 df["spend"].to_numpy(),
             )
 
-
-            revenue = df["revenue"].to_numpy(),
+            revenue = df["revenue"].to_numpy()
 
             channel_idx = pm.Data(
                 "channel_idx",
